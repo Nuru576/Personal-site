@@ -1,0 +1,119 @@
+/*************************Tag commands******************/
+body{
+  background-color: #EFF5F5;
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+}
+
+h1{
+  color: #59C1BD;
+  display: inline;
+  font-size: 5.6rem;
+  font-family: "Sacramento", cursive;
+  line-height:1;
+}
+
+h2{
+  color:#59C1BD;
+  font-size: 2.5rem;
+  font-weight:normal;
+  margin-top: 0;
+}
+
+h3{
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+hr{
+  border: dotted #D6E4E5 6px;
+  border-bottom: none;
+  width:4%;
+}
+/***********************css commands*********************/
+
+.top-container{
+  background-color: #CFF5E7;
+  position: relative;
+  padding: 100px;
+}
+
+.pro{
+  text-decoration: underline;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 280px;
+  top: 25px;
+}
+
+.mountain{
+  align-items: center;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.middle-container{
+padding-top: 40px;
+}
+
+.pfp{
+  border-radius: 50%;
+  width: 17%;
+}
+.skill-row{
+  line-height: 2;
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+}
+.rocket{
+  margin-right: 30px;
+  width:25%;
+  float: left;
+}
+.graph{
+  margin-right: 30px;
+  width: 25%;
+  float: Right;
+}
+
+.socials-container{
+  position: relative;
+  background-color: #59C1BD;
+  padding: 15px 25px 7px;
+}
+
+.footer-link{
+  padding: 0 7px 0;
+  color: #18978F;
+  font-weight: bolder;
+}
+
+.contact-me{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.contact-btn{
+  background-color: #59C1BD;
+  color: #F9F9F9;
+  margin-bottom:20px;
+  padding: 7px;
+  font-weight:bold;
+}
+
+.copyright-text{
+  color: #F9F9F9;
+  font-weight: lighter;
+}
